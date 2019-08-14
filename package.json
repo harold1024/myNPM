@@ -1,0 +1,22 @@
+{
+  "name": "mynpm",
+  "version": "1.0.0",
+  "description": "mpm package demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm package demo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harold1024/myNPM.git"
+  },
+  "keywords": [
+    "myNPM"
+  ],
+  "author": "harold1024",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harold1024/myNPM/issues"
+  },
+  "homepage": "https://github.com/harold1024/myNPM#readme"
+}
